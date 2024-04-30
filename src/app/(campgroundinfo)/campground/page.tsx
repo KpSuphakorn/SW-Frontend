@@ -1,5 +1,4 @@
 "use client";
-import CardPanel from "@/components/CardPanel";
 import getCampgrounds from "@/libs/getCampgrounds";
 import CampgroundCatalog from "@/components/CampgroundCatalog";
 import { Suspense } from "react";
