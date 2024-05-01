@@ -1,6 +1,6 @@
 "use client";
 import ImageSlider from "./ImageSlider";
-import styles from "@/components/ChooseYourstyles.module.css";
+import styles from "@/components/chooseyourstyles.module.css";
 import { useState, useEffect } from "react";
 import getCampgrounds from "@/libs/getCampgrounds";
 import { CampgroundItem, CampgroundJson } from "../../interface";
