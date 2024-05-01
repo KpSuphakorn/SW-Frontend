@@ -13,7 +13,7 @@ const createComment = async (commentData: CreateCommentItem) => {
     const BACKEND_URL = process.env.BACKEND_URL;
 
     const response = await fetch(
-        `${BACKEND_URL}/api-informations/campgrounds/${campground_id}`,
+        `${BACKEND_URL}/api-informations/comments/${campground_id}`,
         {
             method: "POST",
             headers: {
@@ -35,7 +35,7 @@ const createComment = async (commentData: CreateCommentItem) => {
     if (!response.ok) {
         const errorData = await response.json(); // Parse error data from the response
         console.error("Failed to create comment:", errorData.message); // Output the error message from the server
-        throw new Error("Failed to create comment");
+        //throw new Error("Failed to create comment");
     }
 
     return await response.json();
