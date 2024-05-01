@@ -1,4 +1,35 @@
 {
-  "node": {},
+  "node": {
+    "ad679bf6ebfea97781a85a2a01c34aa43b402f65": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWork%5C%5C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%5C%5CCEDT%5C%5CSoftware%20Dev%5C%5CProject-Software-Dev%5C%5Ccedt-se-project-because-of-you-i-cry%5C%5CFrontend%5C%5Csrc%5C%5Clibs%5C%5CuserLogIn.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!",
+        "app/not-found": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWork%5C%5C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%5C%5CCEDT%5C%5CSoftware%20Dev%5C%5CProject-Software-Dev%5C%5Ccedt-se-project-because-of-you-i-cry%5C%5CFrontend%5C%5Csrc%5C%5Clibs%5C%5CuserLogIn.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!",
+        "app/api/auth/logout/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWork%5C%5C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%5C%5CCEDT%5C%5CSoftware%20Dev%5C%5CProject-Software-Dev%5C%5Ccedt-se-project-because-of-you-i-cry%5C%5CFrontend%5C%5Csrc%5C%5Clibs%5C%5CuserLogIn.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!",
+        "app/api/auth/login/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWork%5C%5C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%5C%5CCEDT%5C%5CSoftware%20Dev%5C%5CProject-Software-Dev%5C%5Ccedt-se-project-because-of-you-i-cry%5C%5CFrontend%5C%5Csrc%5C%5Clibs%5C%5CuserLogIn.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/not-found": "rsc",
+        "app/api/auth/logout/page": "rsc",
+        "app/api/auth/login/page": "rsc"
+      }
+    },
+    "fc00ce9d96429483a7382a3d0af49394a5f3b132": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWork%5C%5C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%5C%5CCEDT%5C%5CSoftware%20Dev%5C%5CProject-Software-Dev%5C%5Ccedt-se-project-because-of-you-i-cry%5C%5CFrontend%5C%5Csrc%5C%5Clibs%5C%5CgetCampgrounds.tsx%22%2C%5B%22default%22%5D%5D%2C%5B%22D%3A%5C%5CWork%5C%5C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%5C%5CCEDT%5C%5CSoftware%20Dev%5C%5CProject-Software-Dev%5C%5Ccedt-se-project-because-of-you-i-cry%5C%5CFrontend%5C%5Csrc%5C%5Clibs%5C%5CgetUserProfile.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "a5458eb3bf230094c77dd71daf1ee2aa2d1bf188": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CWork%5C%5C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%5C%5CCEDT%5C%5CSoftware%20Dev%5C%5CProject-Software-Dev%5C%5Ccedt-se-project-because-of-you-i-cry%5C%5CFrontend%5C%5Csrc%5C%5Clibs%5C%5CgetCampgrounds.tsx%22%2C%5B%22default%22%5D%5D%2C%5B%22D%3A%5C%5CWork%5C%5C%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2%5C%5CCEDT%5C%5CSoftware%20Dev%5C%5CProject-Software-Dev%5C%5Ccedt-se-project-because-of-you-i-cry%5C%5CFrontend%5C%5Csrc%5C%5Clibs%5C%5CgetUserProfile.tsx%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
   "edge": {}
 }
